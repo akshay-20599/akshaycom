@@ -1,0 +1,66 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&w=600");
+}
+.first{
+    height: 40px;
+    background: rgb(255, 153, 0);
+    text-align: center;
+    color: white;
+}
+.one{
+    height: 100px;
+    width: 200px;
+    background-image: url("https://d3nn873nee648n.cloudfront.net/900x600/15907/120-SM660019.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.two{
+    height: 100px;
+    width: 200px;
+    background-image: url("https://d3nn873nee648n.cloudfront.net/900x600/18600/220-SM843524.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.three{
+    height: 100px;
+    width: 200px;
+   background-color: black;
+   color: white;
+}
+.four{
+    height: 100px;
+    width: 200px;
+    background-image: url("https://d3nn873nee648n.cloudfront.net/900x600/2042/20-SM75475.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.five{
+    height: 100px;
+    width: 200px;
+    background-color: black;
+    color: white;
+}
+   
+.colom{
+    width: 80px;
+    background: black;
+    color: white;
+}
+h3{
+    color:white;
+    margin-top: 70px;
+}
+table{
+    border-radius: 30px;
+    border: none;
+    height: 500px;
+    width: 70%;
+}
